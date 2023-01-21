@@ -4,7 +4,7 @@
 
 - Nossas receitas e claro Hacking também vira 
 
-- _Então aproveite  o que será colocado_
+Aaqui vai ter um conflito - _Então aproveite  o que será colocado_
 
    ### Será sim um livro de receitas para devs e Hackers com receitas de lanches rápidos e um hacking entre um lanche e outro, ou sera ao contrario ?... ###
 
