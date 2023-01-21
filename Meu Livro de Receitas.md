@@ -9,9 +9,9 @@
 ( conflito adicionado para execicios de resolução de conflito: Aaqui vai ter um conflito -)
 
   ### Será sim um livro de receitas para devs e Hackers com receitas de lanches rápidos e um hacking entre um lanche e outro, ou sera ao contrario ?... ###
-_oi eu sou o nflito_ (esse conflito foi adicionado para ser identificado e resolvido) 
+- _oi eu sou o nflito_ (esse conflito escrito errado foi adicionado para ser identificado e resolvido) 
 
-  
-Aqui vai subir um codigo com alterações e ira ter conflito de mudanças de repositorio e linha de comando como a alteração na lina 9 desse versionameno e linha 7 do versionamento anterior 
+- Aqui vai subir um codigo com alterações e ira ter conflito de mudanças de repositório e linha de comando como a alteração na linha 9 desse versionamento e linha 7 do versionamento anterior 
 
-essa mudança foi feita no vs code 
+ #### essa mudança foi feita no vs code ####
+
