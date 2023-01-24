@@ -15,3 +15,4 @@ _oi eu sou o nflito_ (esse conflito foi adicionado para ser identificado e resol
 Aqui vai subir um codigo com alterações e ira ter conflito de mudanças de repositorio e linha de comando como a alteração na lina 9 desse versionameno e linha 7 do versionamento anterior 
 
 essa mudança foi feita no vs code 
+  
